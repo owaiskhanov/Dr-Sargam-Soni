@@ -1,0 +1,6 @@
+# Robots.txt for Sai Nest Hospital & Dr. Sargam Dev Soni
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://drss.stalite.in/sitemap.xml

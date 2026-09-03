@@ -1,0 +1,21 @@
+# Sai Nest Hospital & Dr. Sargam Dev Soni
+
+> Official web presence and clinical information portal for Dr. Sargam Dev Soni, leading Obstetrician, Gynecologist, and Infertility Specialist practicing at Sai Nest Hospital in Borivali West, Mumbai.
+
+## About
+- **Doctor:** Dr. Sargam (Dev) Soni (MBBS, OBGYN, TDD Chest Medicine, EART & Embryology UK, Ian Donald USG Certified)
+- **Hospital:** Sai Nest Hospital, 1st Floor, Sai Niketan CHS, Sai Baba Nagar, Borivali West, Mumbai – 400092
+- **Contact:** +91 8928031080 | sargasonihospital@gmail.com
+- **OPD Hours:** Monday to Saturday: 10:00 AM – 1:00 PM & 6:00 PM – 9:00 PM (24x7 Emergency Care)
+
+## Core Specializations
+- Gynaecology & Well-Woman Care
+- PCOD / PCOS Treatment & Hormonal Balance
+- Medically Supervised Weight Loss for Women
+- Minimally Invasive Laparoscopic Surgery
+- High-Risk & Routine Pregnancy / Obstetrics
+- Menstrual Disorders & Dysmenorrhea
+- Advanced Infertility & IVF / IUI Guidance
+
+## Full Context
+- [Full Documentation (llms-full.txt)](https://drss.stalite.in/llms-full.txt)
